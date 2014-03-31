@@ -1,0 +1,19 @@
+h1. Lightning Talk Topics
+
+h2. Confirmed
+
+| 17:50 - 17:55 | Navigation Timing | Soonbo Han, LG Electronics |
+| 17:50 - 17:55 | TBD | TBD |
+| 17:55 - 18:00 | TBD | TBD |
+| 18:00 - 18:05 | TBD | TBD |
+| 18:05 - 18:10 | TBD | TBD |
+| 18:10 - 18:15 | TBD | TBD |
+| 18:15 - 18:20 | TBD | TBD |
+| 18:15 - 18:20 | TBD | TBD |
+| 18:20 - 18:25 | TBD | TBD |
+| 18:25 - 18:30 | TBD | TBD |
+
+h2. Proposed
+
+| TBD | TBD |
+
