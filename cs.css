@@ -22,6 +22,7 @@ a { color: #FFCC00 }
 body { background-color: #333 }
 form { text-align: center; }
 h1 { color: #CCFF00; text-align: center; font-size: 24pt; }
+h2 { color: #00FFCC; text-align: center; font-size: 18pt; }
 
 .code_file, .code_content { font-family: monospace; font-size: 8pt; display: inline-block; }
 .code_content { color: #FFF; }
