@@ -17,3 +17,4 @@ h2. Proposed
 
 | TBD | TBD |
 | 도창욱 | 'HTML5 Rocks 소개' 혹은 '번역을 통한 웹 생태계 기여' |
+| 전용우 | Web Notification |
