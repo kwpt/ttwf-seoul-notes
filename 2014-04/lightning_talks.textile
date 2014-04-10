@@ -3,13 +3,13 @@ h1. Lightning Talk Topics
 h2. Confirmed
 
 | 17:50 - 17:55 | Navigation Timing | Soonbo Han, LG Electronics |
-| 17:50 - 17:55 | TBD | TBD |
-| 17:55 - 18:00 | TBD | TBD |
-| 18:00 - 18:05 | TBD | TBD |
-| 18:05 - 18:10 | TBD | TBD |
-| 18:10 - 18:15 | TBD | TBD |
-| 18:15 - 18:20 | TBD | TBD |
-| 18:15 - 18:20 | TBD | TBD |
+| 17:50 - 17:55 | HTML5 Living Standards | Daniel Davis, W3C/HTML5js |
+| 17:55 - 18:00 | Web Accessibility | Shadi Abou-Zahra, W3C |
+| 18:00 - 18:05 | 코딩없이 오픈소스 기여하기[1] | 도창욱, HTML5KIG |
+| 18:05 - 18:10 | Web Notification | 전용우, NHN NEXT |
+| 18:10 - 18:15 | 표준 테스트베드 | 김호연, TTA |
+| 18:15 - 18:20 | IE11에서의 웹 표준 | 황리건, Microsoft |
+| 18:15 - 18:20 | Standardization with HTML5 CT Forum | Jonathan Jeon, ETRI |
 | 18:20 - 18:25 | TBD | TBD |
 | 18:25 - 18:30 | TBD | TBD |
 
