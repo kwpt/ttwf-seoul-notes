@@ -16,5 +16,7 @@ h2. Confirmed
 h2. Proposed
 
 | TBD | TBD |
-| 도창욱 | 코딩없이 오픈소스 기여하기 |
+| 도창욱 | [코딩없이 오픈소스 기여하기][1] |
 | 전용우 | Web Notification |
+
+[1]: http://slides.com/cwdoh/contributing-to-opensource-project-without-writing-code
