@@ -2,7 +2,7 @@ h1. Lightning Talk Topics
 
 h2. Confirmed
 
-| 17:50 - 17:55 | Navigation Timing | Soonbo Han, LG Electronics |
+| 17:50 - 17:55 | Web Performance | Soonbo Han, LG Electronics |
 | 17:50 - 17:55 | HTML5 Living Standards | Daniel Davis, W3C/HTML5js |
 | 17:55 - 18:00 | Web Accessibility | Shadi Abou-Zahra, W3C |
 | 18:00 - 18:05 | 코딩없이 오픈소스 기여하기[1] | 도창욱, HTML5KIG |
